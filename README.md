@@ -37,8 +37,3 @@ This project includes several insightful visualizations:
 - **Subplots**: To compare multiple distributions in a compact format.
 
 ---
-
-## 🚀 **How to Run the Notebook**
-1. Clone this repository:
-   ```bash
-   git clone <repository-url>
